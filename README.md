@@ -1,9 +1,9 @@
-![](https://storage.googleapis.com/twic_pics_optimized_media/video/PIECES_FOR_DEVELOPERS-DESKTOP_APP-COPILOT-MACOS-16X9-5_15_2023-CACHE_BUSTER.mp4)
-
 # Say Hello to Pieces for Developers! 
 **Pieces is an AI-enabled productivity tool designed to help developers manage the chaos of their workflow through intelligent code snippet management, contextualized copilot interactions, and proactive surfacing of useful materials.**
 
 Pieces has a native desktop application on macOS, Windows, and Linux that integrates across your browser, IDE, and collaboration software. Minimize context switching, streamline your workflow, and elevate your overall development experience while maintaining the privacy and security of your work with a completely offline approach to AI.
+
+https://github.com/Sophyia7/.github/assets/55861512/1c17a3d3-2f24-4d18-b122-ff6144b44d12
 
 ## Explore Pieces for Developers 
 - [Download the Desktop App Here](https://docs.pieces.app/installation-getting-started/what-am-i-installing)
