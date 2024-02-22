@@ -32,6 +32,8 @@ Save, enrich, share, generate, reference, and reuse code in your browser, IDE, a
 - Leave us a review via [G2](https://www.g2.com/products/pieces-for-developers/reviews#reviews), or [buy us a coffee](https://www.buymeacoffee.com/getpieces).
 
 ## Get Involved with Open Source by Pieces (OSP)
+![image](https://github.com/Sophyia7/.github/assets/66218403/2a198d57-541b-4681-b79e-b35b09272d97)
+
 
 - Join our lively open-source discussions in our [Discord community](https://discord.gg/getpieces).
 - Rewatch our [AMA](https://www.youtube.com/watch?v=0AmuWaFoTdY) about Open Source by Pieces.
