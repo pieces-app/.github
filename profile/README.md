@@ -1,52 +1,67 @@
-# Say Hello to Pieces for Developers!
-**Pieces is an AI-enabled productivity tool designed to help developers manage the chaos of their workflow through intelligent code snippet management, contextualized copilot interactions, and proactive surfacing of useful materials.**
+# Pieces
 
-Pieces has a native desktop application on macOS, Windows, and Linux that integrates across your browser, IDE, and collaboration software. Minimize context switching, streamline your workflow, and elevate your overall development experience while maintaining the privacy and security of your work with a completely offline approach to AI.
+Pieces is a local-first productivity platform that captures context from your workflow and turns it into useful memory for you and your AI tools.
 
-https://github.com/Sophyia7/.github/assets/55861512/1c17a3d3-2f24-4d18-b122-ff6144b44d12
+With PiecesOS, the desktop app, and the Pieces MCP server, Pieces can remember notes, browser activity, conversations, documents, code, and other workflow context so it is easier to recover past work, answer questions, and stay in flow without shipping your context off-device by default.
 
-## Explore Pieces for Developers
-- [Download the Desktop App Here](https://docs.pieces.app/installation-getting-started/what-am-i-installing)
-- Learn more about Pieces for Developers through the [Pieces Website](https://pieces.app/).
-- Look at our [extensive documentation](http://docs.pieces.app) to get the most out of Pieces.
-- Find tutorials and articles on Pieces features and other software engineering concepts on the [Pieces Blog](https://code.pieces.app/blog).
-- See our latest release for all Pieces products in our [Changelog](https://code.pieces.app/updates).
-- Check out our AMAs, product power tips, and other video content on the [Pieces YouTube](https://youtube.com/@getpieces) page.
-- Go through our [Awesome Pieces Repo](https://github.com/pieces-app/awesome-pieces) filled with other resources to find what you need.
+<video src="https://github.com/user-attachments/assets/8df02ccd-8ee3-4da1-ac42-98f094a2dc02" controls="controls" autoplay muted style="max-width: 730px">
+</video>
 
-## Try Our Plugins
-Save, enrich, share, generate, reference, and reuse code in your browser, IDE, and other plugins to connect Pieces’ centralized AI capabilities throughout your workflow.
-- [Chrome Extension](https://chromewebstore.google.com/detail/pieces-for-developers-cop/igbgibhbfonhmjlechmeefimncpekepm)
-- [Edge Extension](https://microsoftedge.microsoft.com/addons/detail/pieces-save-code-snippet/hglfimcdgonaeeobjckfdabcldfidmim)
-- [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/pieces-save-code-from-the-web/)
-- [Jetbrains Plugin](https://plugins.jetbrains.com/plugin/17328-pieces--save-search-share--reuse-code-snippets)
-- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode)
-- [Azure Data Studio](https://builds.pieces.app/stages/staging/plugin_vscode/ads-vsix/download)
-- [Obsidian Plugin](https://obsidian.md/plugins?id=pieces-for-developers)
-- [JupyterLab Extension](https://docs.pieces.app/extensions-plugins/jupyterlab)
-- [Microsoft Teams App](https://docs.pieces.app/extensions-plugins/teams)
+## What Is Pieces?
 
-## Get Involved
-- Join our [Discord server](https://discord.gg/getpieces) and chat with the community.
-- Participate in conversations around new features, new requests, or ideas that others have shared around Pieces for Developers Products on our [discussion board](https://github.com/pieces-app/support/discussions).
-- Leave us a review via [G2](https://www.g2.com/products/pieces-for-developers/reviews#reviews), or [buy us a coffee](https://www.buymeacoffee.com/getpieces).
+Pieces helps you work with memory instead of hunting for context.
 
-## Get Involved with Open Source by Pieces (OSP)
-![image](https://github.com/Sophyia7/.github/assets/66218403/2a198d57-541b-4681-b79e-b35b09272d97)
+- [Long-Term Memory](https://docs.pieces.app/products/core-dependencies/pieces-os#ltm-27) captures and organizes workflow context over time.
+- [Timeline](https://docs.pieces.app/products/desktop/timeline) gives you a central place to revisit activity, summaries, and past work.
+- [Conversational workflows](https://docs.pieces.app/products/meet-pieces/fundamentals#pieces-copilot) let you ask questions, generate content, and retrieve useful context from what you have already done.
+- [Pieces MCP](https://docs.pieces.app/products/mcp/get-started) brings that context into MCP-compatible AI clients.
 
-- Join our lively open-source discussions in our [Discord community](https://discord.gg/getpieces).
-- Rewatch our [AMA](https://www.youtube.com/watch?v=0AmuWaFoTdY) about Open Source by Pieces.
-- Read our [introductory article](https://code.pieces.app/blog/introducing-open-source-by-pieces) about Open Source by Pieces.
-- Star our Open Source by Pieces (OSP) [main repo](https://github.com/pieces-app/opensource).
-- Get Involved in one of our open-source projects:
-    - [Example Typescript Playground](https://github.com/pieces-app/example-typescript) - Learn about the SDK + contribute
-    - [Drag & Drop Intellij Plugin](https://github.com/pieces-app/IntelliJ-Drag-and-Drop-List) - Adding DnD functionality to any plugin
-- Submit a project idea [here](https://github.com/pieces-app/opensource/discussions).
-- Check our previous meetups on our [YouTube playlist](https://www.youtube.com/playlist?list=PL3ufX1Aqkp16cGipLr9X3gQQI7fkNFZhT).
+## How Pieces Fits Together
 
-## Connect with Us
-- Follow us on [Twitter(X)](https://twitter.com/getpieces).
-- Connect with us on [LinkedIn](https://www.linkedin.com/company/getpieces)
-- Subscribe and turn on notifications to our [YouTube page](https://youtube.com/@getpieces).
+- [PiecesOS](https://docs.pieces.app/products/core-dependencies/pieces-os) is the local foundation that powers capture, memory, and context.
+- The [Desktop App](https://docs.pieces.app/products/desktop/download) is your main hub for browsing memories, managing context, and interacting with Pieces directly.
+- [Pieces MCP](https://docs.pieces.app/products/mcp/get-started) connects that local context to AI clients like Cursor, Claude Desktop, GitHub Copilot, and Codex CLI.
 
+## Why Use Pieces
 
+- Recover work you have already done instead of reconstructing it from memory.
+- Search across your real workflow context, not just filenames or isolated snippets.
+- Generate summaries, answers, and updates from actual activity.
+- Keep control of your data with [local-first privacy and security](https://docs.pieces.app/products/privacy-security-your-data).
+
+## Get Started
+
+1. Install the [Pieces Desktop App](https://docs.pieces.app/products/desktop/download) or [install PiecesOS manually](https://docs.pieces.app/products/core-dependencies/pieces-os/manual-installation).
+2. Turn on [Long-Term Memory](https://docs.pieces.app/products/core-dependencies/pieces-os/quick-menu#ltm-25-engine) so Pieces can start capturing context.
+3. Set up [Pieces MCP](https://docs.pieces.app/products/mcp/get-started) for your preferred AI client.
+4. Use the [prompting guide](https://docs.pieces.app/products/mcp/prompting) to get better results from your personal context.
+
+## Popular MCP Integrations
+
+- [Cursor](https://docs.pieces.app/products/mcp/cursor)
+- [GitHub Copilot](https://docs.pieces.app/products/mcp/github-copilot)
+- [Claude Desktop](https://docs.pieces.app/products/mcp/claude-desktop)
+- [VS Code](https://docs.pieces.app/products/mcp/vs-code)
+- [JetBrains IDEs](https://docs.pieces.app/products/mcp/jetbrains-ides)
+- [OpenAI Codex CLI](https://docs.pieces.app/products/mcp/openai-codex-cli)
+- [Get started with Pieces MCP](https://docs.pieces.app/products/mcp/get-started)
+
+## Learn More
+
+- [Meet Pieces](https://docs.pieces.app/products/meet-pieces)
+- [Docs](https://docs.pieces.app/)
+- [Pro Tips](https://github.com/pieces-app/pro_tips)
+- [Blog](https://pieces.app/blog)
+- [Changelog](https://pieces.app/changelog)
+- [MCP feature overview](https://pieces.app/features/mcp)
+
+## Community
+
+- [Support and discussions](https://github.com/pieces-app/support)
+- [Discord community](https://discord.gg/vTBBscy6Er)
+- [YouTube](https://youtube.com/@getpieces)
+- [LinkedIn](https://www.linkedin.com/company/getpieces)
+
+## About This Repo
+
+This repository powers the public GitHub profile for the `pieces-app` organization. The content in `profile/README.md` is mirrored in the top-level `README.md` so the repository page and org profile stay in sync.
