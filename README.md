@@ -4,7 +4,7 @@ Pieces is a local-first productivity platform that captures context from your wo
 
 With PiecesOS, the desktop app, and the Pieces MCP server, Pieces can remember notes, browser activity, conversations, documents, code, and other workflow context so it is easier to recover past work, answer questions, and stay in flow without shipping your context off-device by default.
 
-<video src="https://github.com/user-attachments/assets/df8fc701-ab7e-40bf-9a5a-501f551bd142" controls="controls" autoplay muted style="max-width: 730px">
+<video src="https://github.com/user-attachments/assets/8df02ccd-8ee3-4da1-ac42-98f094a2dc02" controls="controls" autoplay muted style="max-width: 730px">
 </video>
 
 ## What Is Pieces?
